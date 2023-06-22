@@ -4,7 +4,7 @@ The idea 🧠 - Users guess the phrase that matches the set of emojis on the scr
 ## Wireframes 👇
 https://whimsical.com/phrasemoji-mockups-MoSJuKBnhPxfdq4phVX38r
 
-## - [x] Sprint 1 - Design Project
+## Sprint 1 - Design Project
 
 ### Homepage
 - [x]  "phrasemoji" header
@@ -26,13 +26,13 @@ https://whimsical.com/phrasemoji-mockups-MoSJuKBnhPxfdq4phVX38r
 - [x] the correct phrasemoji of the day
 - [ ] animated sad emojis
 
-## - [ ] Sprint 2 - Create Frontend Pages 
+## Sprint 2 - Create Frontend Pages 
 - [ ] create frontend pages based off mockups
 
-## - [ ] Sprint 3 - Build Node.js Backend
+## Sprint 3 - Build Node.js Backend
 - [ ] create list of endpoints
 - [good article for node and express](https://dev.to/crrojas88/building-a-backend-with-node-js-and-express-27b5)
 
-## - [ ] Sprint 4 - Connect Backend Endpoints
+## Sprint 4 - Connect Backend Endpoints
 
 
