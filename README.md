@@ -36,3 +36,12 @@ https://whimsical.com/phrasemoji-mockups-MoSJuKBnhPxfdq4phVX38r
 ## Sprint 4 - Connect Backend Endpoints
 
 
+## Misc.
+### Colors
+- #c5cfd8 - Primary
+- #FDFEFF - Secondary
+- #6258ec - Buttons
+- #9ed5cf - Success Green
+- #dfa5ad - Try Again Red
+
+
