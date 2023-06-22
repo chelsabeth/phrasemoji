@@ -3,8 +3,8 @@ import './Homepage.css';
 function Homepage() {
     return (
       <div className="main-homepage">
-        <h2>✨ PHRASEMOJI ✨</h2>
         <section>
+            <h2>✨ PHRASEMOJI ✨</h2>
             <h6 className="instructions">guess the phrase that matches the list of emojis <br/>
             example: 😇 🐮 -> "Holy Cow"
             </h6>
