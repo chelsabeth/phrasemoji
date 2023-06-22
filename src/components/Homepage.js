@@ -5,7 +5,7 @@ function Homepage() {
       <div className="main-homepage">
         <section>
             <h2>✨ PHRASEMOJI ✨</h2>
-            <h6 className="instructions">guess the phrase that matches the list of emojis <br/>
+            <h6 className="subtext">guess the phrase that matches the list of emojis <br/>
             example: 😇 🐮 -> "Holy Cow"
             </h6>
         </section>
