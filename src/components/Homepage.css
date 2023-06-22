@@ -7,10 +7,30 @@
     align-items: center;
     justify-content: center;
     font-size: calc(10px + 2vmin);
-    color: snow;
+    color: #FDFEFF;
   }
 
+.instructions {
+    font-weight: normal;
+    margin: 0;
+}
+
 .emojis {
-    font-size: 7vh;
-    font-size: 5vw;
+    font-size: 3.5rem;
+}
+
+.answer {
+    padding: .50rem;
+    width: 15rem;
+    border: none;
+    border-radius: 2px;
+}
+
+.submit {
+    padding: .50rem;
+    margin-top: 1.2rem;
+    background-color: #6258ec;
+    color: #FDFEFF;
+    border: none;
+    border-radius: 2px;
 }

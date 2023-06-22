@@ -3,9 +3,11 @@ import './Homepage.css';
 function Homepage() {
     return (
       <div className="main-homepage">
-        <h1>✨ PHRASEMOJI ✨</h1>
-        <section>guess the phrase that matches the list of emojis <br/>
+        <h2>✨ PHRASEMOJI ✨</h2>
+        <section>
+            <h6 className="instructions">guess the phrase that matches the list of emojis <br/>
             example: 😇 🐮 -> "Holy Cow"
+            </h6>
         </section>
         <section>
             {/* UPDATE - this is where the phrasemoji list of the day will be called */}
@@ -13,11 +15,9 @@ function Homepage() {
         </section>
         <section>
             <form>
-                <label>
-                    <input type="text" name="phrasemoji" placeholder="Answer" />
-                </label>
+                <input className="answer" type="text" name="phrasemoji" placeholder="Answer" autofocus/>
                 <br/>
-                <input type="submit" value="submit your phrasemoji" />
+                <input className="submit" type="submit" value="submit your phrasemoji" />
             </form>
         </section>
       </div>
