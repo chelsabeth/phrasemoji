@@ -29,6 +29,12 @@ https://whimsical.com/phrasemoji-mockups-MoSJuKBnhPxfdq4phVX38r
 - [ ] create list of endpoints
 - [good article for node and express](https://dev.to/crrojas88/building-a-backend-with-node-js-and-express-27b5)
 
+### Endpoints
+|         Name           |  Type  |                   Path                   |         Request           |        Result        |
+|         ----           |  ----  |                   ----                   |         -------           |        ------        |
+|    Get Phrasemoji      |  GET   |             /:id/phrasemoji              |                           |   Phrasemoji of day  |
+|    Compare Answer      |  POST  |             /compare-answer              |     {submitted-answer}    |        Boolean       |
+
 ## Sprint 4 - Connect Backend Endpoints
 
 ## Stretch 
@@ -36,7 +42,6 @@ https://whimsical.com/phrasemoji-mockups-MoSJuKBnhPxfdq4phVX38r
 - [ ] animated sad emojis for try again page
 - [ ] animated confetti for success page
 - [ ] options to share with friends on social media for success page
-
 
 ## Misc.
 ### Colors
