@@ -1,0 +1,20 @@
+.tryagain-page {
+    text-align: center;
+    background-color: #dfa5ad;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: #FDFEFF;
+}
+
+h2 {
+    margin-top: 0;
+}
+
+.answer-section {
+    margin-top: 35vh;
+    font-size: x-large;
+}
