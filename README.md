@@ -12,28 +12,30 @@ https://whimsical.com/phrasemoji-mockups-MoSJuKBnhPxfdq4phVX38r
 - [x] submit button
 - [x] brief instuctions for game
 - [x] answer input
-- [ ] blinking cursor in answer input
 
 ### Success Page
 - [x] green background
 - [x] congratulations text
-- [ ] animated confetti
-- [x] STRETCH: options to share with friends on social media
 
 ### Try Again Page
 - [x] red background
 - [x] try again text
 - [x] the correct phrasemoji of the day
-- [ ] animated sad emojis
 
 ## Sprint 2 - Create Frontend Pages 
-- [ ] create frontend pages based off mockups
+- [x] create frontend pages based off mockups
 
 ## Sprint 3 - Build Node.js Backend
 - [ ] create list of endpoints
 - [good article for node and express](https://dev.to/crrojas88/building-a-backend-with-node-js-and-express-27b5)
 
 ## Sprint 4 - Connect Backend Endpoints
+
+## Stretch 
+- [ ] blinking cursor in answer input on homepage
+- [ ] animated sad emojis for try again page
+- [ ] animated confetti for success page
+- [ ] options to share with friends on social media for success page
 
 
 ## Misc.
