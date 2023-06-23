@@ -13,6 +13,7 @@ function Success() {
         <section className="share-section">
             <div className="share-text">share your success with friends</div>
         </section>
+        {/* UPDATE - this will be where users can share their success on social media */}
         <section className="social-icons">
             <a href="https://twitter.com">
                 <FontAwesomeIcon icon={faTwitter} className="icon" />
