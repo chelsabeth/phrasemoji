@@ -37,6 +37,11 @@ https://whimsical.com/phrasemoji-mockups-MoSJuKBnhPxfdq4phVX38r
 - [ ] animated confetti for success page
 - [ ] options to share with friends on social media for success page
 
+## Endpoints
+|         Name           |  Type  |                   Path                   |         Request           |        Result        |
+|         ----           |  ----  |                   ----                   |         -------           |        ------        |
+|    Get Phrasemoji      |  GET   |             /:id/phrasemoji              |                           |   Phrasemoji of day  |
+|    Submitted Answer    |  POST  |              /compare-answer             |     {submitted-answer}    |                      |
 
 ## Misc.
 ### Colors
