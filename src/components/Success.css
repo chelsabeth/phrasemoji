@@ -9,3 +9,34 @@
     font-size: calc(10px + 2vmin);
     color: #FDFEFF;
 }
+
+h2 {
+    margin-bottom: 0;
+}
+
+.share-section {
+    margin-top: 35vh;
+}
+
+.share-text {
+    font-size: large;
+}
+
+.social-icons {
+    display: flex;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.social-icons .icon {
+    margin: 10px;
+    width: 30px;
+    height: 30px;
+    color: #FDFEFF;
+}
+
+
+

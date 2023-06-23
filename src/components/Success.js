@@ -1,4 +1,7 @@
 import './Success.css';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faTwitter, faInstagram, faFacebook } from '@fortawesome/free-brands-svg-icons'
+
 
 function Success() {
     return (
@@ -7,8 +10,19 @@ function Success() {
             <h2>🎉 CONGRATULATIONS! 🎉</h2>
             <h6 className="subtext">YOU GUESSED THE RIGHT PHRASEMOJI!</h6>
         </section>
-        <section>
-            <div>share your success with friends</div>
+        <section className="share-section">
+            <div className="share-text">share your success with friends</div>
+        </section>
+        <section className="social-icons">
+            <a href="https://twitter.com">
+                <FontAwesomeIcon icon={faTwitter} className="icon" />
+            </a>
+            <a href="https://instagram.com">
+                <FontAwesomeIcon icon={faInstagram} className="icon" />
+            </a>
+            <a href="https://facebook.com">
+                <FontAwesomeIcon icon={faFacebook} className="icon" />
+            </a>
         </section>
       </div>
     );
