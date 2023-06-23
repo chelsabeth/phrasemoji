@@ -29,12 +29,13 @@ https://whimsical.com/phrasemoji-mockups-MoSJuKBnhPxfdq4phVX38r
 - [ ] create list of endpoints
 - [good article for node and express](https://dev.to/crrojas88/building-a-backend-with-node-js-and-express-27b5)
 
-## Sprint 4 - Connect Backend Endpoints
 ### Endpoints
 |         Name           |  Type  |                   Path                   |         Request           |        Result        |
 |         ----           |  ----  |                   ----                   |         -------           |        ------        |
 |    Get Phrasemoji      |  GET   |             /:id/phrasemoji              |                           |   Phrasemoji of day  |
 |    Submitted Answer    |  POST  |              /compare-answer             |     {submitted-answer}    |                      |
+
+## Sprint 4 - Connect Backend Endpoints
 
 ## Stretch 
 - [ ] blinking cursor in answer input on homepage
