@@ -1,0 +1,42 @@
+.success-page {
+    text-align: center;
+    background-color: #9ed5cf;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: #FDFEFF;
+}
+
+h2 {
+    margin-bottom: 0;
+}
+
+.share-section {
+    margin-top: 35vh;
+}
+
+.share-text {
+    font-size: x-large;
+}
+
+.social-icons {
+    display: flex;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.social-icons .icon {
+    margin: 10px;
+    width: 30px;
+    height: 30px;
+    color: #FDFEFF;
+}
+
+
+
