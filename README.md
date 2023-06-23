@@ -27,7 +27,7 @@ https://whimsical.com/phrasemoji-mockups-MoSJuKBnhPxfdq4phVX38r
 - [ ] animated sad emojis
 
 ## Sprint 2 - Create Frontend Pages 
-- [ ] create frontend pages based off mockups
+- [x] create frontend pages based off mockups
 
 ## Sprint 3 - Build Node.js Backend
 - [ ] create list of endpoints
