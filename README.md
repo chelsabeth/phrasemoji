@@ -32,7 +32,7 @@ https://whimsical.com/phrasemoji-mockups-MoSJuKBnhPxfdq4phVX38r
 ### Endpoints
 |         Name           |  Type  |                   Path                   |         Request           |        Result        |
 |         ----           |  ----  |                   ----                   |         -------           |        ------        |
-|    Get Phrasemoji      |  GET   |             /:id/phrasemoji              |                           |   Phrasemoji of day  |
+|    Get Phrasemoji      |  GET   |             /:id/phrasemoji              |   {date, id, phrasemoji}  |   Phrasemoji of day  |
 |    Compare Answer      |  POST  |             /compare-answer              |     {submitted-answer}    |        Boolean       |
 
 ## Sprint 4 - Connect Backend Endpoints
