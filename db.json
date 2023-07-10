@@ -1,22 +1,49 @@
 {
-    "employees": [
-      {
-        "id": 1,
-        "first_name": "Sebastian",
-        "last_name": "Eschweiler",
-        "email": "sebastian@codingthesmartway.com"
-      },
-      {
-        "id": 2,
-        "first_name": "Steve",
-        "last_name": "Palmer",
-        "email": "steve@codingthesmartway.com"
-      },
-      {
-        "id": 3,
-        "first_name": "Ann",
-        "last_name": "Smith",
-        "email": "ann@codingthesmartway.com"
-      }
-    ]
-  }
+  "phrasemojis": [
+    {
+      "id": 1,
+      "emoji": "😀",
+      "phrase": "Happy"
+    },
+    {
+      "id": 2,
+      "emoji": "😊",
+      "phrase": "Smile"
+    },
+    {
+      "id": 3,
+      "emoji": "🤔",
+      "phrase": "Think"
+    },
+    {
+      "id": 4,
+      "emoji": "🎉",
+      "phrase": "Celebrate"
+    },
+    {
+      "id": 5,
+      "emoji": "❤️",
+      "phrase": "Love"
+    },
+    {
+      "id": 6,
+      "emoji": "😇 🐮",
+      "phrase": "Holy cow"
+    },
+    {
+      "id": 7,
+      "emoji": "🌈 🦄",
+      "phrase": "Rainbow unicorn"
+    },
+    {
+      "id": 8,
+      "emoji": "🍕 🍔",
+      "phrase": "Pizza burger"
+    },
+    {
+      "id": 9,
+      "emoji": "🌞 🏖️",
+      "phrase": "Sun beach"
+    }
+  ]
+}
